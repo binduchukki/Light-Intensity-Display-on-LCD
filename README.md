@@ -39,6 +39,3 @@ This project measures **light intensity** using an LDR (Light Dependent Resistor
 Downloaded from https://wokwi.com/
 Simulate this project on https://wokwi.com
 
-  delay(500);
-  lcd.clear();
-}
